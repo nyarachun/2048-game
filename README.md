@@ -19,7 +19,7 @@ git clone https://github.com/your-username/project-name.git
 cd project-name
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 # or
