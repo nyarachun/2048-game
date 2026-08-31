@@ -79,7 +79,7 @@ Combine tiles with the same value to increase your score and try to reach **2048
 
 ## Example
 
-- [DEMO LINK](https://nyarachun.github.io/2048-game/)
+- [2048 Game Demo](https://nyarachun.github.io/2048-game/)
 
 ## Technologies Used
 
